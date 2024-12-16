@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: url('../images/christmas-ticket-bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    margin: 50px auto;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    max-width: 400px;
+}
+
+h1 {
+    color: #FFD700;
+}
+
+h2 {
+    color: #00FF7F;
+    font-size: 36px;
+    margin: 20px 0;
+}
